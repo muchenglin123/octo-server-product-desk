@@ -41,7 +41,7 @@ Agent 回答 octo-server 产品问题时必须遵守：
 
 示例：
 
-来源: modules/example/example.go#L10-L25
+来源: <相对路径>#L<起>-L<止>
 
 ## 不确定回答格式
 
